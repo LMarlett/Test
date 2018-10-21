@@ -1,3 +1,4 @@
+
 # Week 05 Projects
 
 ## Project 01: Data Modeling Exercise
@@ -20,12 +21,4 @@ We are building a simple web application that allows users (_movie viewers_) to 
 
 The `simple-blog` folder contains code for a very simple blog implementation that uses a MVC structure and Sequelize.js for models. Your task for this project is to install postgres and get the project running, as instructed below. Then explore the code and ask your instructors for clarifications for components you don't understand.
 
-- [Install Postgres](https://github.com/CUNYTechPrep/ctp2017/blob/master/guides/installing-postgresql.md)
-- Clone this repository
-- Create a postgres user named: `ctp_user` with password `ctp_user`
-- Create a database named: `blog_development`
-- `cd simple-blog`
-- `npm install`
-- `npm start`
-- visit: http://localhost:8000/
 
